@@ -1,0 +1,66 @@
+[
+  {
+    "name": "The Copper Sprout",
+    "location": "not specified",
+    "type": "farm-to-table restaurant",
+    "food_style": "Modern Appalachian cuisine",
+    "rating": 0.0,
+    "price_range": 2,
+    "signatures": [
+      "Cast-Iron Smoked Trout with pickled fiddlehead ferns",
+      "Wild Mushroom Risotto with aged goat cheese"
+    ],
+    "vibe": "sophisticated yet cozy",
+    "environment": "a sophisticated yet cozy vibe with reclaimed wood and amber lighting in a refined, atmospheric setting",
+    "shortcomings": [],
+    "itemId": 1000002
+  },
+  {
+    "name": "The Copper Sprout",
+    "location": "not specified",
+    "type": "farm-to-table restaurant",
+    "food_style": "Modern Appalachian cuisine",
+    "rating": 0.0,
+    "price_range": 2,
+    "signatures": [
+      "Cast-Iron Smoked Trout with pickled fiddlehead ferns",
+      "Wild Mushroom Risotto with aged goat cheese"
+    ],
+    "vibe": "sophisticated yet cozy",
+    "environment": "a sophisticated yet cozy vibe with reclaimed wood and amber lighting in a refined, atmospheric setting",
+    "shortcomings": [],
+    "itemId": 1000002
+  },
+  {
+    "name": "The Copper Sprout",
+    "location": "not specified",
+    "type": "farm-to-table restaurant",
+    "food_style": "Modern Appalachian cuisine",
+    "rating": 0.0,
+    "price_range": 2,
+    "signatures": [
+      "Cast-Iron Smoked Trout with pickled fiddlehead ferns",
+      "Wild Mushroom Risotto with aged goat cheese"
+    ],
+    "vibe": "sophisticated yet cozy",
+    "environment": "a sophisticated yet cozy vibe with reclaimed wood and amber lighting in a refined, atmospheric setting.",
+    "shortcomings": [],
+    "itemId": 1000002
+  },
+  {
+    "name": "The Copper Sprout",
+    "location": "not specified",
+    "type": "farm-to-table restaurant",
+    "food_style": "Modern Appalachian cuisine",
+    "rating": 0.0,
+    "price_range": 2,
+    "signatures": [
+      "Cast-Iron Smoked Trout with pickled fiddlehead ferns",
+      "Wild Mushroom Risotto with aged goat cheese"
+    ],
+    "vibe": "sophisticated yet cozy",
+    "environment": "a sophisticated yet cozy vibe with reclaimed wood and amber lighting in a refined, atmospheric setting.",
+    "shortcomings": [],
+    "itemId": 1000002
+  }
+]
